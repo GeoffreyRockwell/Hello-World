@@ -1,7 +1,9 @@
 # Hello-World
 ## Learning Github Repository
 
-This repository is for learning Github. I'm now editing it. I have now added some text.
+This repository is for learning Github. I have now added some text.
 
-* First item
+* FIRST ITEM
 * Second item
+
+### HERE IS A THIRD LEVEL TITLE
