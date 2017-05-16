@@ -8,4 +8,4 @@ This repository is for learning Github. I have now added some text.
 
 ### HERE IS A THIRD LEVEL TITLE
 
-this is my master. Testing branching.
+this is not the master. Testing branching.
